@@ -12,7 +12,7 @@ Content is modified
 
 ## Person C:
 
-Person C should modify content here.
+Hello from the other side! 
 
 ## Person D:
 
